@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "ananya",
+    valentineName: "Ananya",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,20 +22,20 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "IF I WOULD BE YOU HANDSOME, WOULD YOU BE MY GORGEOUS?",                                    // First interaction
+            text: "IF I WOULD BE YOUR HANDSOME, WOULD YOU BE MY GORGEOUS?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I WANT TO BE YOUR SOULMATE ❤!❤️"           // Secret hover message
+            secretAnswer: "WANT TO BE YOUR SOULMATE ❤!❤️"           // Secret hover message
         },
         second: {
             text: "ON SCALE OF 1 TO 1000 YOUR THOUGHT ABOUT US",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "NEXT PLEASE ❤️"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine FOREVER? 🌹🌻", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            noBtn: "No😭"                                                 // Text for "No" button
         }
     },
 
