@@ -27,12 +27,12 @@ const CONFIG = {
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I WANT TO BE YOUR SOULMATE ❤!❤️"           // Secret hover message
         },
-        third: {
+        second: {
             text: "ON SCALE OF 1 TO 1000 YOUR THOUGHT ABOUT US",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
-        forth: {
+        third: {
             text: "Will you be my Valentine FOREVER? 🌹🌻", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
